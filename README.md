@@ -23,7 +23,7 @@ O CandidAPP permite você alterar diversos atributos do layout de seu site como 
 # Eu posso alterar o endereço de meu site?
 # Eu possuo um domínio, posso atribuir ao meu site criado no CandidAPP?
 # Meu site é adaptável em telas de celular?
-Sim, o CandidAPP faz com que seu site seja totalmente responsivo às milhares de telas de celular disponíveis. Legal, né?
+Sim, o CandidAPP faz com que seu site seja totalmente responsivo às milhares de telas de celulares disponíveis. Legal, né?
 # Posso permanecer com meu site após a eleição de 2020?
 Seu site, feito com o CandiDAPP, fica disponível até 60 dias após a data da votação do segundo turno.
 # Sou Candidato(a) a Vereador(a), o Candidapp me atende?
