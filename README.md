@@ -9,6 +9,15 @@ O CandidAPP possue 3 planos:
 - **Pacote Básico:** Plano de entrada do CandidAPP, tem como funcionalidades: Personalização de Fotos dos apoiadores e Mensagens do site.
 - **Pacote Intermediário:** Plano intermediário do CandidAPP, suas funcionalidades, além das que constam no plano básico, são: Agenda do Dia, Plano de Governo, Mídias de Campanha, Site Personalizado, Redes Sociais, Sala de Imprensa, Biografia, Espaço em disco.
 - **Pacote Avançado:** Possue todas as funcionalidades dos planos Básico e Intermédiario, o que diferencia é a capacidade de armazenamento, que neste plano é de 1GB.
+# Quanto custa?
+- **Pacote Básico:** R$ 90,00.
+- **Pacote Intermediário:** R$ 149,50.
+- **Pacote Avançado:** R$ 249,95.
+
+[Contrate aqui](https://candidapp.com.br/signup). É bem simples e muito rápido.
+# O valor do Pacote é mensal?
+Não, você só paga uma vez e fica com seu site no ar até 60 dias após a data do segundo turno.
+
 # Como Criar meu site com o CandidAPP?
 - **Crie sua conta:**
 Cadastre-se para iniciar a revolução no marketing da sua campanha. Você receberá um URL único para utilizar no registro da sua candidatura.
