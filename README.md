@@ -18,6 +18,9 @@ O CandidAPP possue 3 planos:
 # O valor do Pacote é mensal?
 Não, você só paga uma vez e fica com seu site no ar até 60 dias após a data do segundo turno.
 
+# O que eu preciso para entrar criar meu site de campanha no CandidAPP?
+Para entrar no CandidAPP você precisa ter o CNPJ da candidatura liberado pelo TRE.
+
 # Como Criar meu site com o CandidAPP?
 - **Crie sua conta:**
 Cadastre-se para iniciar a revolução no marketing da sua campanha. Você receberá um URL único para utilizar no registro da sua candidatura.
