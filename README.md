@@ -1,7 +1,7 @@
 # CandidAPP-FAQ
 
-# O Que é o Candidapp?
-O Candidapp é um sistema intuitivo de desenvolvimento de sites institucionais para campanha eleitoral.
+# O Que é o CandidAPP?
+O CandidAPP é um sistema intuitivo de desenvolvimento de sites institucionais para campanha eleitoral.
 # Quem pode usar o CandidAPP?
 Candidatos à cargos eletivos e sua equipe.
 # Quais os planos que eu posso escolher?
