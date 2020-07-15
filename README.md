@@ -15,11 +15,15 @@ O CandidAPP possue 3 planos:
 - **Pacote Avançado:** R$ 249,95.
 
 [Contrate aqui](https://candidapp.com.br/signup). É bem simples e muito rápido.
+
 # O valor do Pacote é mensal?
 Não, você só paga uma vez e fica com seu site no ar até 60 dias após a data do segundo turno.
 
 # O que eu preciso para entrar criar meu site de campanha no CandidAPP?
 Para entrar no CandidAPP você precisa ter o CNPJ da candidatura liberado pelo TRE.
+
+# O CandidAPP emite nota fiscal para prestaçao de contas de campanha?
+Sim.
 
 # Como Criar meu site com o CandidAPP?
 - **Crie sua conta:**
@@ -41,4 +45,6 @@ Seu site, feito com o CandiDAPP, fica disponível até 60 dias após a data da v
 # Sou Candidato(a) a Vereador(a), o Candidapp me atende?
 Sim.
 # Sou Candidato(a) a Prefeito(a), o Candidapp me atende?
+Sim.
+# O CandidAPP atende todos os municípios do Brasil?
 Sim.
