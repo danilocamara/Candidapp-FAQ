@@ -51,3 +51,8 @@ Sim.
 
 
 ![Jul-16-2020 15-21-54](https://user-images.githubusercontent.com/18555091/87707866-2f318980-c778-11ea-8ada-51906b59ba28.gif)
+
+
+![gif 2](https://user-images.githubusercontent.com/18555091/87708241-cbf42700-c778-11ea-82dc-ba9efff1d52a.gif)
+
+
