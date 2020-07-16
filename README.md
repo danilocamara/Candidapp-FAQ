@@ -48,3 +48,6 @@ Sim.
 Sim.
 # O CandidAPP atende todos os municípios do Brasil?
 Sim.
+
+
+![Teste de GIF](https://user-images.githubusercontent.com/18555091/87707330-520f6e00-c777-11ea-8de6-97e619eb5e1f.gif)
