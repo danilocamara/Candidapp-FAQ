@@ -6,7 +6,15 @@ Antes vamos estudar de começar nossa FAQ, vamos estudar que tipos de usuários/
 ![WhatsApp Image 2020-07-21 at 14 16 59](https://user-images.githubusercontent.com/18555091/88086253-6f6c7f80-cb5d-11ea-9862-b0863f6810e1.jpeg)
 
 ## Dúvidas
-- Qual o principal problema que o CandidAPP vai resolver?
+- **Qual o principal problema que o CandidAPP vai resolver?**
+Criar site.
+- **Qual diferencial?**
+Valor acessível.
+Simplicidade de desenvolvimento e ediçao.
+- **Como podemos comprovar que nosso valor realmente é acessivel?**
+?
+- **Como podemos comprovar que CandidAPP é uma ferramenta simples?**
+Vídeos explicativos, Módulos documentados.
 
 ### 1° Conquiste a Atenção
 Aqui, site bom e barato.
