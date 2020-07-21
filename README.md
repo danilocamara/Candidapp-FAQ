@@ -16,6 +16,12 @@ Simplicidade de desenvolvimento e ediçao.
 - **Como podemos comprovar que CandidAPP é uma ferramenta simples?**
 Vídeos explicativos, Módulos documentados.
 
+- **Porque usar o CandidAPP se já vou usar Instagram, Twitter e Facebook?**
+
+
+## Roteiro
+Um modelo de roteiro que poderemos usar segue com esses 4 pontos abaixo:
+
 ### 1° Conquiste a Atenção
 Aqui, site bom e barato.
 
