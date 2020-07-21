@@ -1,5 +1,24 @@
 # CandidAPP-FAQ
 
+Antes vamos estudar de começar nossa FAQ, vamos estudar que tipos de usuários/compradores teremos.
+
+# Fases do visitante
+![WhatsApp Image 2020-07-21 at 14 16 59](https://user-images.githubusercontent.com/18555091/88086253-6f6c7f80-cb5d-11ea-9862-b0863f6810e1.jpeg)
+
+## Dúvidas
+- Qual o principal problema que o CandidAPP vai resolver?
+
+### 1° Conquiste a Atenção
+Aqui, site bom e barato.
+
+### 2° Apresente uma necessidade
+Aqui poderíamos usar algo do tipo: Chegou o ano de eleição e você, candidato, precisa fazer seu site?
+
+### 3° Mostre a solução e comprove
+
+### 4° Convença
+
+
 # O Que é o CandidAPP?
 O CandidAPP é um sistema intuitivo de desenvolvimento de sites institucionais para campanha eleitoral.
 # Quem pode usar o CandidAPP?
